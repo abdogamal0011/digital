@@ -8,7 +8,7 @@ import { Component } from '@angular/core';
   styleUrl: './nav-bar.component.css'
 })
 export class NavBarComponent {
-  image:string="../../../assets/logo.webp"
+  image:string="./assets/logo.webp"
   isNavVisible = false;
 
   toggleNav() {
