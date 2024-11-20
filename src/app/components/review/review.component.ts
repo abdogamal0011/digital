@@ -20,13 +20,13 @@ import { CarouselModule, OwlOptions } from 'ngx-owl-carousel-o';
 ]
 })
 export class ReviewComponent {
-  image2:string='../../../assets/client-1.png';
-  image3:string='../../../assets/client-2.png';
-  image4:string='../../../assets/client-3.png';
-  image5:string='../../../assets/client-4.png';
-  image6:string='../../../assets/client-5.png';
-  image7:string='../../../assets/client-6.png';
-  image8:string='../../../assets/client-7.png';
+  image2:string='../../../assets/image/client-1.png';
+  image3:string='../../../assets/image/client-2.png';
+  image4:string='../../../assets/image/client-3.png';
+  image5:string='../../../assets/image/client-4.png';
+  image6:string='../../../assets/image/client-5.png';
+  image7:string='../../../assets/image/client-6.png';
+  image8:string='../../../assets/image/client-7.png';
   customOptions: OwlOptions = {
     loop: true,
     mouseDrag: true,
